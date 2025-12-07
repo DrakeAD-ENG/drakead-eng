@@ -24,7 +24,7 @@ This GitHub serves as my digital workspace:
 ---
 
 ## Tech & Tools I'm Working With
-- Python and C
+- Python, C/CPP, SQL
 - Git & GitHub, Bash, Linux
 - Markdown, LaTeX for engineering notes
 - HTML/CSS/JS
@@ -83,7 +83,7 @@ A small educational operating system:
 
 My full portfolio, CV, learning notes, and organised study logs live at:
 
-**https://drakead-eng.github.io**
+[drakead-eng.github.io](https://drakead-eng.github.io/drakead-eng/)
 
 (Updated regularly.)
 
