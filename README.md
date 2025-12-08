@@ -1,17 +1,7 @@
 # Hi there, I'm Drake
+**Engineering Student | Logistics Professional | Building Systems**
 
-I'm an Engineering student at the Open University and a full-time professional working in logistics. I'm building a strong foundation in engineering principles, mathematics, programming, and systems design.
-
-My interests span: Engineering, Software Development, Automation, Problem-Solving, Long-Term Personal Growth, Simulations, Human Life, Philosophy, Psychology, History.
-
-This GitHub serves as my digital workspace:
-- Engineering + software project
-- Learning notes (maths, programming, engineering, environments, etc.)
-- Essays, reflections, and structured thinking
-- Portfolio & CV
-- Long-term study, habits, and skill development
-
----
+I'm an Engineering student at the Open University and a full-time professional working in logistics. This GitHub is my public workshop - documenting projects, learning, and building useful systems.
 
 ## Current Focus
 - Completing my Engineering degree (Open University)
@@ -19,9 +9,6 @@ This GitHub serves as my digital workspace:
 - Building mental models for engineering and problem-solving
 - Strengthening core maths + physics foundation
 - Developing real engineering/software projects for my portfolio
-- Improving finances, personal systems, organisation, and workflows
-
----
 
 ## Tech & Tools I'm Working With
 - Python, C/CPP, SQL
@@ -30,76 +17,99 @@ This GitHub serves as my digital workspace:
 - HTML/CSS/JS
 - WSL, Windows
 
----
-
 ## Featured Projects (coming soon)
 
-### Life OS – Personal Operating System
-A full system for long-term growth:
-- task + habit engine  
-- finance tools  
-- spaced repetition  
-- learning tracker  
-- personal knowledge graph  
+### Auth & Authorisation
+Shared identity & access control service:
+- user accounts and role-based access control
+- API keys, OAuth, SSO integrations
+- permission scoping (dispatcher/driver/admin)
+- audit logs and session management
 
-### Engineering Simulation Suite
-Python-based tools for simulating:
-- mass-spring-damper systems  
-- control systems  
-- ODE solvers  
-- electrical circuits  
+### Customer Management System
+CRUD service for customer data and SLAs, including:
+- customer profiles and contacts
+- contract / SLA definitions
+- billing addresses and service tiers
+- account activity history
 
-### Human Behaviour & Decision Simulator
-A small research-focused simulator exploring:
-- habits  
-- reinforcement learning  
-- psychological models  
-- long-term behaviour patterns
+### Fleet & Asset Management
+Manage vehicles and equipment with:
+- vehicle specs (capacity, dimensions, fuel type)
+- trailer/equipment linking and availability
+- maintenance records and scheduling
+- geo-fencing & operational restrictions
 
-### Systems Toolbox (C + Python)
-A collection of foundational tools:
-- data structures in C  
-- file parsers  
-- CLI utilities  
-- algorithms  
-- Linux-style mini-shell  
+### Driver & Crew Management
+Roster and compliance system for crews:
+- driver profiles and certifications
+- shifts, availability, and hours-of-service rules
+- licensing and compliance checks
+- shift handovers and assignments
 
-### History & Civilisation Data Explorer
-A visual analytics project that explores patterns in:
-- civilisations  
-- wars  
-- economics  
-- population cycles
+### Order / Job Management API
+A core API for creating and tracking transport jobs, supporting:
+- pickups & deliveries (locations, time windows)
+- job priorities and statuses
+- recurring & bulk import of orders
+- validation & address normalisation
 
-### Tiny OS Kernel (C)
-A small educational operating system:
-- bootloader  
-- memory management  
-- scheduler  
+### Route Optimisation Engine
+Constraint-driven routing service using OR-Tools:
+- multi-stop route planning
+- time windows, capacities, and vehicle types
+- customisable cost functions (time, distance, fuel)
+- batch optimisation and solution export
 
----
+### Scheduling & Dispatch Engine
+Decision layer that assigns work and sequences tasks:
+- match jobs to vehicles/drivers
+- shift-aware scheduling and sequencing
+- manual overrides and dispatch workflows
+- dispatch notifications and change logs
 
-## My Website
+### Constraint Management
+Rule engine for business logic and exceptions:
+- encode hard/soft constraints and priorities
+- dynamic overrides and feature flags
+- validation before optimisation runs
+- rule auditing and versioning
 
-My full portfolio, CV, learning notes, and organised study logs live at:
+### Event & Status Engine
+State machine for operational events:
+- milestone events (loaded, en route, delivered)
+- automated state transitions and alerts
+- exception detection and escelation paths
+- event audit trail for compliance
 
-[drakead-eng.github.io](https://drakead-eng.github.io/drakead-eng/)
+### Costing & Pricing Engine
+Calculate route and job economics:
+- per-route cost models (fuel, time, tolls)
+- dynamic pricing and rate cards
+- cost attribution to customers/jobs
+- exportable cost reports for billing
 
-(Updated regularly.)
+### Billing & Invoicing
+Automate billing flows tied to deliveries:
+- invoice generation from completed jobs
+- rate rules, discounts, and surcharges
+- multi-currency and tax handling
+- payment status tracking and reconciliations
 
----
+## Get In Touch
 
-## Contact
-
-If you'd like to talk about engineering, tech, productivity, or collaboration:
+If you're interested in discussing projects, engineering, logistics systems, or collaboration opportunities, reach out.
 
 - Email: netnodedev@outlook.com
 - GitHub: @DrakeAD-ENG
 
----
-
 ### Always Improving
 
-I'm building my life around long-term systems: clear thinking, strong foundation, engineering discipline, financial stability, and meaningful personal growth.
+I'm building my life around long-term systems: clear thinking, strong foundation, engineering discipline, financial stability, and meaningful personal growth. Everything here is a work in progress. Some projects will succeed, others will teach me why they failed. Both outcomes are valuable.
 
 This GitHub documents that journey.
+
+---
+
+**Status:** Building, learning, documenting the journey.
+**Updated:** December 2025
