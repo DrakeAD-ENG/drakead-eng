@@ -350,7 +350,7 @@ body {
 }
 
 .hero-title {
-    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-size: clamp(2rem, 5vw, 4rem);
     margin-bottom: 1rem;
     color: var(--text-primary);
     background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent-primary) 100%);
